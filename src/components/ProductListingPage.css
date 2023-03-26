@@ -1,0 +1,16 @@
+.product_cart {
+  border-style: solid;
+  padding: 2rem;
+  width: 20rem;
+}
+.product_parent {
+  display: flex;
+}
+.product_img {
+  height: 10rem;
+}
+.search_input {
+  padding: 1rem;
+  width: 25rem;
+  margin: 1rem;
+}

@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  border: 2px solid;
+}
+.navigations a {
+  display: inline;
+  font-size: 25px;
+  justify-content: space-between;
+  text-decoration: none;
+  padding: 1.5rem 1rem;
+  margin: 2rem;
+
+  color: #222;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
