@@ -3,7 +3,7 @@ import { CartContext } from "./context/CartContext";
 import Header from "./Header";
 import "./ProductPage.css";
 
-function ProductPage({ products, match }) {
+function ProductPage() {
   const Cart = useContext(CartContext);
 
   return (
